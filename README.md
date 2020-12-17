@@ -10,3 +10,8 @@ Für meinen Kachelbedarf für den rC3 und für die Assembly an der ich wurschtel
  - [Repo der Weltenwanderer-Assembly](https://github.com/Weltenwanderer/WeltiConRoom)
  - [Welti-Assembly-Probefahrt](https://test.visit.at.wa-test.rc3.cccv.de/_/global/raw.githubusercontent.com/Weltenwanderer/WeltiConRoom/master/main.json)
 
+
+### Software:
+
+ - [Paintingprogramm Krita](https://krita.org/en/)
+
