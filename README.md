@@ -1,7 +1,11 @@
 # TileWeise
 
-Wer kachelt hier eigentlich wen?
-Für meinen Kachelbedarf für den rC3 und für die Assembly an der ich wurschtel sammle ich hier Kachelgrafiken.
+Wer kachelt hier eigentlich wen?<br />
+Für meinen Kachelbedarf für den rC3 und für die Assembly an der ich wurschtel, sammle ich hier Kachelgrafiken.
+
+Ich hab mich hier bei [tiles.rc3.world](https://tiles.rc3.world) freizügig bedient,
+eine Grafik von den [PIPOYA FREE RPG Character Sprites 32x32](https://pipoya.itch.io/pipoya-free-rpg-character-sprites-32x32) benutzt und den Rest zusätzlich selbst erschaffen.
+Über Erwähnungen freu ich mich, ihr dürft meinen Teil aber gerne als CC0 betrachten.
 
 ### Verarbeitung:
 
